@@ -4,9 +4,7 @@ This is a static (no-backend) version of your Replit/Flask project.
 You can open it locally with any browser.
 
 How to run (Mac):
-1) Unzip the folder.
-2) Double-click index.html (it will open in Safari/Chrome).
-3) If images don't load, make sure the 'static' folder is beside index.html.
+Double-click index.html (it will open in Safari/Chrome).
 
 Files:
 - index.html  (home)
